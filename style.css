@@ -142,7 +142,7 @@ opacity: 0.9;
 }
 
 /* Mobile Design width: 375px */
-@media screen and (max-width: 375px)
+@media screen and (max-width: 600px)
 {
 	.grid-container
 	{
